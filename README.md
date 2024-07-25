@@ -1,2 +1,2 @@
 # My-project
-My first guy repository 
+My first git repository 
